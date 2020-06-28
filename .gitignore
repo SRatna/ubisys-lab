@@ -1,0 +1,12 @@
+.jxbrowser-data
+.metadata
+RemoteSystemsTempFiles
+*/Debug
+*/targetConfigs
+*/.ccsproject
+*/.cproject
+*/.energytrace
+*/.launches
+*/.project
+*/.settings
+*/lnk_msp430fr5969.cmd
